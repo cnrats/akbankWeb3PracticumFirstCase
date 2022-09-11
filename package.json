@@ -1,0 +1,15 @@
+{
+  "name": "akbankweb3firstcase",
+  "version": "1.0.0",
+  "description": "First case.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Caner Ates",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
